@@ -2,6 +2,8 @@
 
 A Spring Boot REST API for managing a library system, developed for the **Infraestructure and Process Support** course at the University of Málaga.
 
+The objective of this repository is to demonstrate how to build container images using GitHub Actions and deploy a Spring application into a self-hosted Kubernetes cluster using GitHub Runners.
+
 ---
 
 ## Requirements
